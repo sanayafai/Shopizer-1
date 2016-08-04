@@ -10,7 +10,7 @@
 <html class=" js no-touch csstransitions" lang="en"><!--<![endif]--><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8">
-		<title>Meubles de bois exotique | ExotiKA Mobilia | Kolkata</title>
+		<title>Meubles de bois exotique | ExotiKA Mobilia</title>
 		<meta name="description" content="Entrepôt de meubles exotiques à Montréal">
 		
 
